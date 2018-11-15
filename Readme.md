@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/XLExportExamples/Program.cs) (VB: [Program.vb](./VB/XLExportExamples/Program.vb))
+<!-- default file list end -->
 # Excel Export Library - Getting Started
 
 
