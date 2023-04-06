@@ -8,6 +8,7 @@
 
 This example demonstrates how to use the [Excel Export library](https://docs.devexpress.com/OfficeFileAPI/114031/excel-export-library) to generate a simple spreadsheet document in code. After running this example, a console application creates an <strong>XLSX</strong> file and opens it in the default application registered for this file type.
 
+Excel Export Library has limited amount of features. Refer to the following page for information on a feature-rich Spreadsheet Document API: [Excel Spreadsheet API for .NET](https://www.devexpress.com/products/net/office-file-api/spreadsheet/)
 # Files to Look at
 
 * [Program.cs](./CS/XLExportExamples/Program.cs) (VB: [Program.vb](./VB/XLExportExamples/Program.vb))
