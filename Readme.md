@@ -15,4 +15,3 @@ This example demonstrates how to use the [Excel Export library](https://docs.dev
 # Documentation
 
 * [Get Started with the Excel Export Library - Generate an Excel File](https://docs.devexpress.com/OfficeFileAPI/114032/excel-export-library/getting-started)
-* []()
