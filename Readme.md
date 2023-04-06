@@ -3,12 +3,16 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T242354)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# Excel Export Library - Create a Simple Excel Document
+
+This example demonstrates how to use the [Excel Export library](https://docs.devexpress.com/OfficeFileAPI/114031/excel-export-library) to generate a simple spreadsheet document in code. After running this example, a console application creates an <strong>XLSX</strong> file and opens it in the default application registered for this file type.
+
+# Files to Look at
 
 * [Program.cs](./CS/XLExportExamples/Program.cs) (VB: [Program.vb](./VB/XLExportExamples/Program.vb))
-<!-- default file list end -->
-# Excel Export Library - Getting Started
 
+# Documentation
 
-This example demonstrates how to use the <strong>Excel Export</strong> library to generate a simple spreadsheet document in code.<br />After running this example, a console application creates an <strong>XLSX</strong> file and opens it in the default application registered for this file type.<br />For more information, refer to the <a href="https://documentation.devexpress.com/OfficeFileAPI/114031/Excel-Export-Library">Excel Export Library</a> and <a href="https://documentation.devexpress.com/OfficeFileAPI/114032/Excel-Export-Library/Getting-Started">Getting Started</a> articles in the documentation.
+* [Get Started with the Excel Export Library - Generate an Excel File](https://docs.devexpress.com/OfficeFileAPI/114032/excel-export-library/getting-started)
+* []()
