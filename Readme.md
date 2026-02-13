@@ -18,7 +18,7 @@ Excel Export Library has limited amount of features. Refer to the following page
 
 * [Get Started with the Excel Export Library - Generate an Excel File](https://docs.devexpress.com/OfficeFileAPI/114032/excel-export-library/getting-started)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=excel-export-library-get-started&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=excel-export-library-get-started&~~~was_helpful=no)
 
