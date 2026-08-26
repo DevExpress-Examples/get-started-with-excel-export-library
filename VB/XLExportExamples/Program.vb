@@ -118,7 +118,7 @@ Namespace XLExportExamples
                 End Using
             End Using
             ' Open the XLSX document using the default application.
-            System.Diagnostics.Process.Start("Document.xlsx")
+            System.Diagnostics.Process.Start(New ProcessStartInfo("Document.xlsx") With {.UseShellExecute = True})
         End Sub
     End Class
 End Namespace

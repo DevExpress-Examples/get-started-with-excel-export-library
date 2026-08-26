@@ -122,7 +122,7 @@ namespace XLExportExamples
                 }
             }
             // Open the XLSX document using the default application.
-            System.Diagnostics.Process.Start("Document.xlsx");
+            System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo("Document.xlsx") { UseShellExecute = true });
         }
     }
 }
